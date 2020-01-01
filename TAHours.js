@@ -22,6 +22,41 @@ $(document).ready(function () {
             doodleLink: ""
         },
         {   
+            name: "Erick Branner",
+            userName: "brannere",
+            officeHours: "",
+            demoHours: "Mon 10-12pm & Fri 9-11am",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUt0XzBpd0tac3k4fGRlZmF1bHR8NDY1YmJkYWQxNzU2MzE0ZDhlYjUzYjE5MTQ5ZmU3M2I"
+        },
+        {   
+            name: "Jesse Chick",
+            userName: "chickj",
+            officeHours: "Tue & Thur 9-10am",
+            demoHours: "Mon 9-11am",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUhyeWdSeTA2MzJIfGRlZmF1bHR8Mzc2ZTM5NDlmNjczNGM4ZTBmYWU4ZDBjNTNlZmQyNmI"
+        },
+        {   
+            name: "Louis Duvoisin",
+            userName: "",
+            officeHours: "Tue & Thur 11:30-2pm & Fri 11:30-1:30pm",
+            demoHours: "",
+            doodleLink: ""
+        },
+        {   
+            name: "Jessica Garcia",
+            userName: "",
+            officeHours: "Mon 6-7pm & Wed 8-9am",
+            demoHours: "",
+            doodleLink: ""
+        },
+        {   
+            name: "Miguel Gaspar",
+            userName: "gasparmm",
+            officeHours: "Fri 9:30-11:30am",
+            demoHours: "Thur 4-6pm",
+            doodleLink: ""
+        },
+        {   
             name: "Laura Jiang",
             userName: "jianglau",
             officeHours: "Mon & Fri 10-12pm",
@@ -36,18 +71,11 @@ $(document).ready(function () {
             doodleLink: "https://doodle.com/poll/gv3vv7tms3hnsw55"
         },
         {   
-            name: "Jesse Chick",
-            userName: "chickj",
-            officeHours: "Tue & Thur 9-10am",
-            demoHours: "Mon 9-11am",
-            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUhyeWdSeTA2MzJIfGRlZmF1bHR8Mzc2ZTM5NDlmNjczNGM4ZTBmYWU4ZDBjNTNlZmQyNmI"
-        },
-        {   
-            name: "Erick Branner",
-            userName: "brannere",
+            name: "Jason O'Brien",
+            userName: "",
             officeHours: "",
-            demoHours: "Mon 10-12pm & Fri 9-11am",
-            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUt0XzBpd0tac3k4fGRlZmF1bHR8NDY1YmJkYWQxNzU2MzE0ZDhlYjUzYjE5MTQ5ZmU3M2I"
+            demoHours: "",
+            doodleLink: ""
         },
         {   
             name: "Lucas Pichette",
@@ -57,23 +85,9 @@ $(document).ready(function () {
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUpjdmJPZ0tzRUpPfGRlZmF1bHR8NzQ0MTQ2MzhkOTY3OTdmNDJiODlhYjQwNDI4NjdlZWU"
         },
         {   
-            name: "Miguel Gaspar",
-            userName: "gasparmm",
-            officeHours: "Fri 9:30-11:30am",
-            demoHours: "Thur 4-6pm",
-            doodleLink: ""
-        },
-        {   
-            name: "Arthur York",
+            name: "Maddie Smith",
             userName: "",
-            officeHours: "",
-            demoHours: "",
-            doodleLink: ""
-        },
-        {   
-            name: "Louis Duvoisin",
-            userName: "",
-            officeHours: "Tue & Thur 11:30-2pm & Fri 11:30-1:30pm",
+            officeHours: "Wed 1-3pm",
             demoHours: "",
             doodleLink: ""
         },
@@ -92,16 +106,9 @@ $(document).ready(function () {
             doodleLink: ""
         },
         {   
-            name: "Jason O'Brien",
+            name: "Arthur York",
             userName: "",
             officeHours: "",
-            demoHours: "",
-            doodleLink: ""
-        },
-        {   
-            name: "Jessica Garcia",
-            userName: "",
-            officeHours: "Mon 6-7pm & Wed 8-9am",
             demoHours: "",
             doodleLink: ""
         },
@@ -109,13 +116,6 @@ $(document).ready(function () {
             name: "Junze Zhang",
             userName: "",
             officeHours: "",
-            demoHours: "",
-            doodleLink: ""
-        },
-        {   
-            name: "Maddie Smith",
-            userName: "",
-            officeHours: "Wed 1-3pm",
             demoHours: "",
             doodleLink: ""
         }
