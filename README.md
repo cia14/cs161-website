@@ -1,2 +1,3 @@
-# cs161-website
-Course website for CS 161 at OSU
+# Course website for CS 161 at OSU
+Instructor: Kiri Wagstaff
+
