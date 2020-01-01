@@ -121,8 +121,8 @@ $(document).ready(function () {
         }
     ];
 
-    var table = '<table class="TAHoursInfo">';
-    table += "<tr><th>Name</th><th>Email</th><th>Office Hours (DEAR 119)</th><th>Grading Hours (KEC 1174)</th></tr>";
+    var table = '<table class="TAHoursInfo" width=100%>';
+    table += "<tr><th width=20%>Name</th><th width=10%>Email</th><th width=35%>Office Hours (DEAR 119)</th><th>Grading Hours (KEC 1174)</th></tr>";
 
     for (var x = 0; x < TAinfo.length; x++) {
         table += "<tr>";
