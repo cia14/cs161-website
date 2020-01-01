@@ -1,0 +1,272 @@
+.topBar {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    background: #C34500;
+    width: 100vw;
+}
+
+.topBar h2 {
+    margin: 0;
+    padding: 10px 0;
+    color: white;
+    text-align: center;
+}
+
+.topBar nav {
+    background: #373737;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    line-height: 50px;
+    width: 100vw;
+}
+
+.topBar nav .unselected {
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+.topBar nav .unselected:hover {
+    -webkit-transition: .5s;
+    transition: .5s;
+    background: #af4811;
+}
+
+.topBar nav .selected {
+    background: #767676;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    cursor: default;
+}
+
+.extraSpace {
+    margin-top: 50px;
+}
+
+.fix-place {
+    position: fixed;
+    top: 0;
+}
+
+.hamburgerContainer {
+    width: 100vw;
+    position: absolute;
+    top: 0px;
+    right: 0;
+    background: #373737;
+    padding: 2px 5px;
+}
+
+.hamburger {
+    margin: auto;
+    width: 50px;
+}
+
+.hamburger .line {
+    width: 50px;
+    height: 5px;
+    background-color: #ecf0f1;
+    display: block;
+    margin: 8px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.hamburger:hover {
+    cursor: pointer;
+}
+
+.hamburger.is-active .line:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.is-active .line:nth-child(1) {
+    -webkit-transform: translateY(13px) rotate(45deg);
+    transform: translateY(13px) rotate(45deg);
+}
+
+.hamburger.is-active .line:nth-child(3) {
+    -webkit-transform: translateY(-13px) rotate(-45deg);
+    transform: translateY(-13px) rotate(-45deg);
+}
+
+@media screen and (min-width: 900px) {
+    .hamburgerContainer {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .hamburgerContainer {
+        display: block;
+    }
+    .topBar {
+        margin-top: 50px;
+    }
+    nav {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .fix-place {
+        position: static;
+        top: 0;
+    }
+    .extraSpace {
+        margin-top: 0px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .topBar h2:nth-child(2) {
+        display: none;
+    }
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.content {
+    padding: 0 2vw;
+}
+
+.content h2 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.instructions {
+    max-width: 700px;
+    margin: auto;
+}
+
+.assignments {
+    margin: 50px auto 0 auto;
+}
+
+.assignments td {
+    padding: 7px;
+}
+
+.labsTable {
+    max-width: 1300px;
+    margin: auto;
+    min-width: 300px;
+    background: #373737;
+    color: white;
+    overflow: hidden;
+    border-collapse: collapse;
+}
+
+.labsTable a {
+    color: #A7C4C9;
+}
+
+.labsTable th {
+    display: none;
+    font-weight: 400;
+    font-size: 14pt;
+    background: #C34500;
+}
+
+.labsTable td {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .labsTable td:first-child {
+        padding-top: 15px;
+    }
+    .labsTable td:last-child {
+        border-bottom: 10px solid white;
+        padding-bottom: 15px;
+    }
+}
+
+.labsTable td:before {
+    font-weight: bold;
+    width: 7em;
+    display: inline-block;
+}
+
+@media (min-width: 600px) {
+    .labsTable td:before {
+        display: none;
+    }
+}
+
+.labsTable th,
+.labsTable td {
+    padding: 10px;
+    text-align: left;
+}
+
+@media (min-width: 600px) {
+    .labsTable th,
+    .labsTable td {
+        padding: 1em !important;
+        display: table-cell;
+        padding: .25em .5em;
+    }
+    .labsTable th:first-child,
+    .labsTable td:first-child {
+        padding-left: 0;
+    }
+    .labsTable th:last-child,
+    .labsTable td:last-child {
+        padding-right: 0;
+    }
+}
+
+@media (min-width: 600px) {
+    .labsTable tr {
+        margin-bottom: 30px;
+    }
+}
+
+.labsTable td:nth-of-type(1):before {
+    content: "Section";
+}
+
+.labsTable td:nth-of-type(2):before {
+    content: "Day";
+}
+
+.labsTable td:nth-of-type(3):before {
+    content: "Time";
+}
+
+.labsTable td:nth-of-type(4):before {
+    content: "TA1";
+}
+
+.labsTable td:nth-of-type(5):before {
+    content: "TA2";
+}
+
+.labsTable td:nth-of-type(6):before {
+    content: "TA3";
+}
