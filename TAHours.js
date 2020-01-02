@@ -17,7 +17,7 @@ $(document).ready(function () {
         {   
             name: "Megan Black",
             userName: "blackme",
-            officeHours: "Mon & Wed 12-2pm",
+            officeHours: "Mon & Wed 12-2 p.m.",
             demoHours: "",
             doodleLink: ""
         },
@@ -25,49 +25,49 @@ $(document).ready(function () {
             name: "Erick Branner",
             userName: "brannere",
             officeHours: "",
-            demoHours: "Mon 10-12pm & Fri 9-11am",
+            demoHours: "Mon 10-12pm & Fri 9-11 a.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUt0XzBpd0tac3k4fGRlZmF1bHR8NDY1YmJkYWQxNzU2MzE0ZDhlYjUzYjE5MTQ5ZmU3M2I"
         },
         {   
             name: "Jesse Chick",
             userName: "chickj",
-            officeHours: "Tue & Thur 9-10am",
-            demoHours: "Mon 9-11am",
+            officeHours: "Tue & Thur 9-10 a.m.",
+            demoHours: "Mon 9-11 a.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUhyeWdSeTA2MzJIfGRlZmF1bHR8Mzc2ZTM5NDlmNjczNGM4ZTBmYWU4ZDBjNTNlZmQyNmI"
         },
         {   
             name: "Louis Duvoisin",
             userName: "duvoisil",
-            officeHours: "Tue & Thur 11:30-2pm & Fri 11:30-1:30pm",
+            officeHours: "Tue & Thur 11:30-2pm & Fri 11:30-1:30 p.m.",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Jessica Garcia",
             userName: "garciaj3",
-            officeHours: "Mon 6-7pm & Wed 8-9am",
+            officeHours: "Mon 6-7pm & Wed 8-9 a.m.",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Miguel Gaspar",
             userName: "gasparmm",
-            officeHours: "Fri 9:30-11:30am",
-            demoHours: "Thur 4-6pm",
+            officeHours: "Fri 9:30-11:30 a.m.",
+            demoHours: "Thur 4-6 p.m.",
             doodleLink: ""
         },
         {   
             name: "Laura Jiang",
             userName: "jianglau",
-            officeHours: "Mon & Fri 10-12pm",
-            demoHours: "Tue & Wed 10-12pm",
+            officeHours: "Mon & Fri 10-12 p.m.",
+            demoHours: "Tue & Wed 10-12 p.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUlFaGp3TnlmZlRBfGRlZmF1bHR8ZWFkNzE2ZjE0Njc3OWM2Yzg2ZGRmOTRiMmNiNDZmNjY"
         },
         {   
             name: "Thang Kim (LK)",
             userName: "kimth",
-            officeHours: "Tue 10-11am",
-            demoHours: "Mon 2-4pm",
+            officeHours: "Tue 10-11 a.m.",
+            demoHours: "Mon 2-4 p.m.",
             doodleLink: "https://doodle.com/poll/gv3vv7tms3hnsw55"
         },
         {   
@@ -80,28 +80,28 @@ $(document).ready(function () {
         {   
             name: "Lucas Pichette",
             userName: "pichettl",
-            officeHours: "Tue 8-10am & Wed 2-5pm & Thur 8-10am",
-            demoHours: "Tue & Thur 11-12pm",
+            officeHours: "Tue 8-10am & Wed 2-5pm & Thur 8-10 a.m.",
+            demoHours: "Tue & Thur 11-12 p.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUpjdmJPZ0tzRUpPfGRlZmF1bHR8NzQ0MTQ2MzhkOTY3OTdmNDJiODlhYjQwNDI4NjdlZWU"
         },
         {   
             name: "Maddie Smith",
             userName: "smitmad9",
-            officeHours: "Wed 1-3pm",
+            officeHours: "Wed 1-3 p.m.",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Austin Wilmoth",
             userName: "wilmotha",
-            officeHours: "Thur 10-12 pm",
+            officeHours: "Thur 10-12  p.m.",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Cheng Xie",
             userName: "xiech",
-            officeHours: "Mon 3-5pm & Tue 2:30-3:30pm",
+            officeHours: "Mon 3-5pm & Tue 2:30-3:30 p.m.",
             demoHours: "",
             doodleLink: ""
         },
