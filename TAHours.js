@@ -18,8 +18,8 @@ $(document).ready(function () {
             name: "Megan Black",
             userName: "blackme",
             officeHours: "Mon & Wed 12-2 p.m.",
-            demoHours: "",
-            doodleLink: ""
+            demoHours: "Mon & Thu 2-3:50 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UURRUkJndnZsVHdKfGRlZmF1bHR8OWUxNWI4YjU5ODA3M2MzMjBiMTgxMDI1Y2IzZjdkYjU"
         },
         {   
             name: "Erick Branner",
@@ -39,7 +39,7 @@ $(document).ready(function () {
             name: "Louis Duvoisin",
             userName: "duvoisil",
             officeHours: "Tue & Thur 11:30 a.m.-2 p.m. & Fri 11:30-1:30 p.m.",
-            demoHours: "",
+            demoHours: "N/A",
             doodleLink: ""
         },
         {   
