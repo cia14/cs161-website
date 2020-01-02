@@ -25,7 +25,7 @@ $(document).ready(function () {
             name: "Erick Branner",
             userName: "brannere",
             officeHours: "Mon 12-2 p.m.",
-            demoHours: "Mon 10-12 p.m. & Fri 9-11 a.m.",
+            demoHours: "Mon 10 a.m.-12 p.m. & Fri 9-11 a.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUt0XzBpd0tac3k4fGRlZmF1bHR8NDY1YmJkYWQxNzU2MzE0ZDhlYjUzYjE5MTQ5ZmU3M2I"
         },
         {   
@@ -38,7 +38,7 @@ $(document).ready(function () {
         {   
             name: "Louis Duvoisin",
             userName: "duvoisil",
-            officeHours: "Tue & Thur 11:30-2 p.m. & Fri 11:30-1:30 p.m.",
+            officeHours: "Tue & Thur 11:30 a.m.-2 p.m. & Fri 11:30-1:30 p.m.",
             demoHours: "",
             doodleLink: ""
         },
@@ -59,8 +59,8 @@ $(document).ready(function () {
         {   
             name: "Laura Jiang",
             userName: "jianglau",
-            officeHours: "Mon & Fri 10-12 p.m.",
-            demoHours: "Tue & Wed 10-12 p.m.",
+            officeHours: "Mon & Fri 10 a.m.-12 p.m.",
+            demoHours: "Tue & Wed 10 a.m.-12 p.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUlFaGp3TnlmZlRBfGRlZmF1bHR8ZWFkNzE2ZjE0Njc3OWM2Yzg2ZGRmOTRiMmNiNDZmNjY"
         },
         {   
@@ -94,7 +94,7 @@ $(document).ready(function () {
         {   
             name: "Austin Wilmoth",
             userName: "wilmotha",
-            officeHours: "Thur 10-12 p.m.",
+            officeHours: "Thur 10 a.m.-12 p.m.",
             demoHours: "",
             doodleLink: ""
         },
