@@ -7,7 +7,7 @@ var times = [
             Type: "Lab",
             TAs: ["Arthur York", "Laura Jiang"]
         },
-		{
+	{
             Section: 26,
             Day: "M",
             StartTime: 1000,
@@ -40,37 +40,37 @@ var times = [
             Day: "W",
             StartTime: 1600,
             Type: "Lab",
-			TAs: ["Jessica Garcia", "Austin Wilmoth", "Maddie Smith"]
+	    TAs: ["Jessica Garcia", "Austin Wilmoth", "Maddie Smith"]
         },
-		{
+	{
             Section: 21,
             Day: "R",
             StartTime: 800,
             Type: "Lab",
             TAs: ["Laura Jiang", "Arthur York", "Megan Black"]
         },
-		{
+	{
             Section: 23,
             Day: "F",
             StartTime: 800,
             Type: "Lab",
             TAs: ["Lucas Pichette", "Junze Zhang"]
         },
-		{
+	{
             Section: 24,
             Day: "F",
             StartTime: 1000,
             Type: "Lab",
             TAs: ["Austin Wilmoth", "Jason O'Brien"]
         },
-		{
+	{
             Section: 28,
             Day: "F",
             StartTime: 1200,
             Type: "Lab",
             TAs: ["Cheng Xie", "Jason O'Brien", "Megan Black"]
         },
-		{
+	{
             Section: 31,
             Day: "F",
             StartTime: 1600,
