@@ -150,7 +150,8 @@ table {
 }
 
 table {
-    max-width: 1300px;
+/*    max-width: 1300px;*/
+    align: center;
     margin: auto;
     min-width: 300px;
     background: #373737;
@@ -234,7 +235,7 @@ table td:nth-of-type(2):before {
 }
 
 table td:nth-of-type(3):before {
-    content: "Slide";
+    content: "Slides and Links";
 }
 
 table td:nth-of-type(4):before {
@@ -242,7 +243,7 @@ table td:nth-of-type(4):before {
 }
 
 table td:nth-of-type(5):before {
-    content: "Assignments";
+    content: "Assignment Due Dates";
 }
 
 table .weekBreak {
