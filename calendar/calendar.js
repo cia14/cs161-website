@@ -17,103 +17,133 @@ $(document).ready(function () {
     
     var assignments = [
         {   
-            //- Assignment #1 Due Sunday 10/01 11:59pm
+            //- Assignment #1 Due Sunday 01/12 11:59pm
             number: 1,
             type: "project",
             assignedMonth: 0,
             assignedDay: 0,
-            dueMonth: 10,
-            dueDay: 1,
+            dueMonth: 1,
+            dueDay: 12,
             dueHour: "11:59pm",
             submitionLocation: "teach"
         }, {
-            //- Assignment #2 Due Sunday 10/08 11:59pm
+            //- Assignment #2 Design Due Sunday 01/19 by 11:59pm
+            number: 2,
+            type: "design",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 1,
+            dueDay: 19,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        }, {
+            //- Assignment #2 Peer Review Due Wednesday 01/22 by 11:59pm
+            number: 2,
+            type: "peer_review",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 1,
+            dueDay: 22,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        }, {
+            //- Assignment #2 Due Sunday 01/26 11:59pm
             number: 2,
             type: "project",
             assignedMonth: 0,
             assignedDay: 0,
-            dueMonth: 10,
-            dueDay: 8,
-            dueHour: "11:59pm",
-            submitionLocation: "teach"
-        }, {
-            //- Assignment #3 Design Due Sunday 10/15 by 5pm on CANVAS
-            number: 3,
-            type: "design",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 10,
-            dueDay: 15,
-            dueHour: "11:59pm",
-            submitionLocation: "canvas"
-        },{
-            //- Assignment #3 Due Sunday 10/22 11:59pm
-            number: 3,
-            type: "project",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 10,
-            dueDay: 22,
-            dueHour: "11:59pm",
-            submitionLocation: "teach"
-        }, {
-            //- Assignment #4 Design Due Sunday 10/29 by 5pm on CANVAS
-            number: 4,
-            type: "design",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 10,
-            dueDay: 29,
-            dueHour: "11:59pm",
-            submitionLocation: "canvas"
-        }, {
-            //- Assignment #4 Due Sunday 11/05 11:59pm
-            number: 4,
-            type: "project",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 11,
-            dueDay: 5,
-            dueHour: "11:59pm",
-            submitionLocation: "teach"
-        },{
-            //- Assignment #5 Design Due Sunday 11/12 by 5pm on CANVAS
-            number: 5,
-            type: "design",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 11,
-            dueDay: 12,
-            dueHour: "11:59pm",
-            submitionLocation: "canvas"
-        },{
-            //Assignment #5 Due Sunday 11/19 11:59pm
-            number: 5,
-            type: "project",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 11,
-            dueDay: 19,
-            dueHour: "11:59pm",
-            submitionLocation: "teach"
-        }, {
-            //- Assignment #6 Design Due Sunday 11/26 by 5pm on CANVAS
-            number: 6,
-            type: "design",
-            assignedMonth: 0,
-            assignedDay: 0,
-            dueMonth: 11,
+            dueMonth: 1,
             dueDay: 26,
             dueHour: "11:59pm",
-            submitionLocation: "canvas"
+            submitionLocation: "teach"
         }, {
-            //Assignment #6 Due Sunday 12/03 11:59pm
-            number: 6,
+            //- Assignment #3 Design Due Sunday 02/02 by 11:59pm
+            number: 3,
             type: "design",
             assignedMonth: 0,
             assignedDay: 0,
-            dueMonth: 12,
-            dueDay: 3,
+            dueMonth: 2,
+            dueDay: 2,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        }, {
+            //- Assignment #3 Peer Review Due Wednesday 02/05 by 11:59pm
+            number: 3,
+            type: "peer_review",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 2,
+            dueDay: 5,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        },{
+            //- Assignment #3 Due Sunday 02/09 11:59pm
+            number: 3,
+            type: "project",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 2,
+            dueDay: 9,
+            dueHour: "11:59pm",
+            submitionLocation: "teach"
+        }, {
+            //- Assignment #4 Design Due Sunday 02/16 by 11:59pm
+            number: 4,
+            type: "design",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 2,
+            dueDay: 16,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        }, {
+            //- Assignment #4 Peer Review Due Wednesday 02/19 by 11:59pm
+            number: 4,
+            type: "peer_review",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 2,
+            dueDay: 19,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        }, {
+            //- Assignment #4 Due Sunday 02/23 11:59pm
+            number: 4,
+            type: "project",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 2,
+            dueDay: 23,
+            dueHour: "11:59pm",
+            submitionLocation: "teach"
+        },{
+            //- Assignment #5 Design Due Sunday 03/01 by 11:59pm
+            number: 5,
+            type: "design",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 3,
+            dueDay: 1,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        }, {
+            //- Assignment #4 Peer Review Due Wednesday 03/04 by 11:59pm
+            number: 5,
+            type: "peer_review",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 3,
+            dueDay: 4,
+            dueHour: "11:59pm",
+            submitionLocation: "canvas"
+        },{
+            //Assignment #5 Due Sunday 03/08 by 11:59pm
+            number: 5,
+            type: "project",
+            assignedMonth: 0,
+            assignedDay: 0,
+            dueMonth: 3,
+            dueDay: 8,
             dueHour: "11:59pm",
             submitionLocation: "teach"
         }
