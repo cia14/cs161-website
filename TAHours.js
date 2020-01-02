@@ -37,14 +37,14 @@ $(document).ready(function () {
         },
         {   
             name: "Louis Duvoisin",
-            userName: "",
+            userName: "duvoisil",
             officeHours: "Tue & Thur 11:30-2pm & Fri 11:30-1:30pm",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Jessica Garcia",
-            userName: "",
+            userName: "garciaj3",
             officeHours: "Mon 6-7pm & Wed 8-9am",
             demoHours: "",
             doodleLink: ""
@@ -72,7 +72,7 @@ $(document).ready(function () {
         },
         {   
             name: "Jason O'Brien",
-            userName: "",
+            userName: "obriejas",
             officeHours: "",
             demoHours: "",
             doodleLink: ""
@@ -86,35 +86,35 @@ $(document).ready(function () {
         },
         {   
             name: "Maddie Smith",
-            userName: "",
+            userName: "smitmad9",
             officeHours: "Wed 1-3pm",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Austin Wilmoth",
-            userName: "",
+            userName: "wilmotha",
             officeHours: "Thur 10-12 pm",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Cheng Xie",
-            userName: "",
+            userName: "xiech",
             officeHours: "Mon 3-5pm & Tue 2:30-3:30pm",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Arthur York",
-            userName: "",
+            userName: "yorkar",
             officeHours: "",
             demoHours: "",
             doodleLink: ""
         },
         {   
             name: "Junze Zhang",
-            userName: "",
+            userName: "zhanjunz",
             officeHours: "",
             demoHours: "",
             doodleLink: ""
