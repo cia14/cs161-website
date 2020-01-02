@@ -95,8 +95,8 @@ $(document).ready(function () {
             name: "Austin Wilmoth",
             userName: "wilmotha",
             officeHours: "Thur 10 a.m.-12 p.m.",
-            demoHours: "",
-            doodleLink: ""
+            demoHours: "Tue 10 a.m.-12 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUVrUDQ0ZWVNZVVffGRlZmF1bHR8N2FjOTc0ZGRiY2IwMjA5MWIzM2RlMDIyNjdhODE4NjI"
         },
         {   
             name: "Cheng Xie",
