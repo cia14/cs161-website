@@ -140,7 +140,7 @@ body {
 
 * {
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+/*    font-weight: 300;*/
     text-rendering: optimizeLegibility;
 }
 
@@ -164,9 +164,10 @@ h2 {
 }
 
 .assignments {
-    margin: 50px auto 0 auto;
+    margin: 20px auto 0 auto;
 }
 
 .assignments td {
     padding: 7px;
 }
+
