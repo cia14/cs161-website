@@ -46,8 +46,8 @@ $(document).ready(function () {
             name: "Jessica Garcia",
             userName: "garciaj3",
             officeHours: "Mon 6-7 p.m. & Wed 8-9 a.m.",
-            demoHours: "",
-            doodleLink: ""
+            demoHours: "Weeks 2-5: Tue 4-5 p.m. & Wed 9-11 a.m.;<br> Weeks 6-10: Tue 2-5 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUtkOWh0TGc2M3JMfGRlZmF1bHR8ZjhkYjkyOWNiMjU3ODFlYjdjN2M1ZTk5NzNhZTdkOTM"
         },
         {   
             name: "Miguel Gaspar",
