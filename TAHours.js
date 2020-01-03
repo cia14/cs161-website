@@ -88,8 +88,8 @@ $(document).ready(function () {
             name: "Maddie Smith",
             userName: "smitmad9",
             officeHours: "Wed 1-3 p.m.",
-            demoHours: "",
-            doodleLink: ""
+            demoHours: "Mon 1-3 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUJmQzIxb3VyZFJBfGRlZmF1bHR8ZTk5ZDE1NTNjYmFmMWExMWNmODMxYzRiOTIxNGVmZWQ"
         },
         {   
             name: "Austin Wilmoth",
