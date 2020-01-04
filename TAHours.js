@@ -73,9 +73,9 @@ $(document).ready(function () {
         {   
             name: "Jason O'Brien",
             userName: "obriejas",
-            officeHours: "",
-            demoHours: "",
-            doodleLink: ""
+            officeHours: "Tue 10 a.m.-12 p.m.",
+            demoHours: "Wed & Thu 10 a.m.-12 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUlDLWg3Q2pObXBufGRlZmF1bHR8Yzg0NWRlOTJhOTIyOGY2Yzk1OGQyYzc2ODA1MGYxMWQ"
         },
         {   
             name: "Lucas Pichette",
@@ -103,7 +103,7 @@ $(document).ready(function () {
             userName: "xiech",
             officeHours: "Mon 3-4:30 p.m. & Tue 2:30-3:30 p.m.",
             demoHours: "Mon 12-1 p.m. & Tue 2-3 p.m.",
-            doodleLink: ""
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UU5wOEl3QjBVdDZVfGRlZmF1bHR8ZmRlNDU2NTg2OWUwMTNhMmFjNjg1YjkwN2JiZDE3NDI"
         },
         {   
             name: "Arthur York",
