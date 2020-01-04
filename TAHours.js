@@ -101,8 +101,8 @@ $(document).ready(function () {
         {   
             name: "Cheng Xie",
             userName: "xiech",
-            officeHours: "Mon 3-5 p.m. & Tue 2:30-3:30 p.m.",
-            demoHours: "",
+            officeHours: "Mon 3-4:30 p.m. & Tue 2:30-3:30 p.m.",
+            demoHours: "Mon 12-1 p.m. & Tue 2-3 p.m.",
             doodleLink: ""
         },
         {   
