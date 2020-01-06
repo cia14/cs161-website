@@ -115,8 +115,8 @@ $(document).ready(function () {
         {   
             name: "Junze Zhang",
             userName: "zhanjunz",
-            officeHours: "",
-            demoHours: "",
+            officeHours: "Tue 5-7 p.m.",
+            demoHours: "Tue 12-2 p.m.",
             doodleLink: ""
         }
     ];
