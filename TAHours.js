@@ -57,6 +57,13 @@ $(document).ready(function () {
             doodleLink: ""
         },
         {   
+            name: "Shaurya Gaur",
+            userName: "gaurs",
+            officeHours: "Thu 10-11 a.m. & Fri 12-1 p.m.",
+            demoHours: "Wed & Fri 1-2 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUlsc0toVW1tV2hafGRlZmF1bHR8YjAzYTYzNWEwZTI3MDRjMGQ2N2E3NzZmMjkyZjU4NGE"
+        },
+        {   
             name: "Laura Jiang",
             userName: "jianglau",
             officeHours: "Mon & Fri 10 a.m.-12 p.m.",
