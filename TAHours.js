@@ -92,6 +92,13 @@ $(document).ready(function () {
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUJmQzIxb3VyZFJBfGRlZmF1bHR8ZTk5ZDE1NTNjYmFmMWExMWNmODMxYzRiOTIxNGVmZWQ"
         },
         {   
+            name: "Zachary Taylor",
+            userName: "taylozac",
+            officeHours: "Mon & Fri 2-3 p.m.",
+            demoHours: "Wed 2-5 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUxqNWxQZzNGV2l4fGRlZmF1bHR8M2JlNTg0YThjMTg0NTc0OGZhOTk0YmI5YzY3MjM2NjY"
+        },
+        {   
             name: "Austin Wilmoth",
             userName: "wilmotha",
             officeHours: "Thur 10 a.m.-12 p.m.",
