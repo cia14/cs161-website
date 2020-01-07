@@ -74,7 +74,7 @@ $(document).ready(function () {
             name: "Thang Kim (LK)",
             userName: "kimth",
             officeHours: "Tue 10-11 a.m.",
-            demoHours: "Mon 2-4 p.m.",
+            demoHours: "Wed 12-2 p.m.",
             doodleLink: "https://doodle.com/poll/gv3vv7tms3hnsw55"
         },
         {
