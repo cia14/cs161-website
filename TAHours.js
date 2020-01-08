@@ -11,7 +11,7 @@ $(document).ready(function () {
             name: "Yipeng (Roger) Song",
             userName: "songyip",
             officeHours: "By appointments",
-            demoHours: "N/A",
+            demoHours: "",
             doodleLink: ""
         },
         {
@@ -39,7 +39,7 @@ $(document).ready(function () {
             name: "Louis Duvoisin",
             userName: "duvoisil",
             officeHours: "Mon & Fri 12:00-2:00 p.m. | Tue & Thur 11:30 a.m.-2:00 p.m. | Wed 12:00-1:00 p.m.",
-            demoHours: "N/A",
+            demoHours: "",
             doodleLink: ""
         },
         {
@@ -53,7 +53,8 @@ $(document).ready(function () {
             name: "Miguel Gaspar",
             userName: "gasparmm",
             officeHours: "Fri 9:30-11:30 a.m.",
-            demoHours: "Thur 4-6 p.m.",
+            /*demoHours: "Thur 4-6 p.m.",*/
+            demoHours: "",
             doodleLink: ""
         },
         {
