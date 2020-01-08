@@ -88,7 +88,7 @@ $(document).ready(function () {
             name: "Lucas Pichette",
             userName: "pichettl",
             officeHours: "Tue 8-10 a.m. & Wed 2-5 p.m. & Thur 8-10 a.m.",
-            demoHours: "Tue & Thur 11-12 p.m.",
+            demoHours: "Wed 10 a.m.-12 p.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUpjdmJPZ0tzRUpPfGRlZmF1bHR8NzQ0MTQ2MzhkOTY3OTdmNDJiODlhYjQwNDI4NjdlZWU"
         },
         {
