@@ -122,9 +122,9 @@ $(document).ready(function () {
         {
             name: "Arthur York",
             userName: "yorkar",
-            officeHours: "",
-            demoHours: "",
-            doodleLink: ""
+            officeHours: "Wed 10-12 p.m.",
+            demoHours: "Tue 12-1:50 p.m. & Thur 12-1:50 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUE3bDlIU2FhZFJ6fGRlZmF1bHR8OGYwY2NlZGMzYTNjMDNmNTNlYjE1MTk5OGMxMWI4NmY"
         },
         {
             name: "Junze Zhang",
