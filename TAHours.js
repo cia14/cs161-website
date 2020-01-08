@@ -89,7 +89,7 @@ $(document).ready(function () {
             userName: "pichettl",
             officeHours: "Tue 8-10 a.m. & Wed 2-5 p.m. & Thur 8-10 a.m.",
             demoHours: "Wed 10 a.m.-12 p.m.",
-            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUpjdmJPZ0tzRUpPfGRlZmF1bHR8NzQ0MTQ2MzhkOTY3OTdmNDJiODlhYjQwNDI4NjdlZWU"
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUdJc3ppOGJ0dUl0fGRlZmF1bHR8MTdiOTU2MGNkYTAzY2UzOWQ2N2Q3OWIyZTlkM2MyMGY"
         },
         {
             name: "Maddie Smith",
@@ -131,7 +131,7 @@ $(document).ready(function () {
             userName: "zhanjunz",
             officeHours: "Tue 5-7 p.m.",
             demoHours: "Tue 12-2 p.m.",
-            doodleLink: ""
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UU5PLTNmNHEwb3c0fGRlZmF1bHR8YzBhZGI0YTY2ZTJjMWU1ZTM1NTFmNzkxNjRmNzgyNDY"
         }
     ];
 
