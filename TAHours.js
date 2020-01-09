@@ -53,9 +53,8 @@ $(document).ready(function () {
             name: "Miguel Gaspar",
             userName: "gasparmm",
             officeHours: "Fri 9:30-11:30 a.m.",
-            /*demoHours: "Thur 4-6 p.m.",*/
-            demoHours: "",
-            doodleLink: ""
+            demoHours: "Wed 4-5 p.m. & Fri 2-3 p.m.",
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUVOdlg1Y1dBZDZPfGRlZmF1bHR8Yzg4MWIwM2Q0MThhOTgxYTZlMzI2MGZjNTQ4YTU4YTE"
         },
         {
             name: "Shaurya Gaur",
