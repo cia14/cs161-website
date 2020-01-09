@@ -90,7 +90,7 @@ $(document).ready(function () {
             userName: "pichettl",
             officeHours: "Tue 8-10 a.m. & Wed 2-5 p.m. & Thur 8-10 a.m.",
             demoHours: "Wed 10 a.m.-12 p.m.",
-            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUdJc3ppOGJ0dUl0fGRlZmF1bHR8MTdiOTU2MGNkYTAzY2UzOWQ2N2Q3OWIyZTlkM2MyMGY"
+            doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUpjdmJPZ0tzRUpPfGRlZmF1bHR8NzQ0MTQ2MzhkOTY3OTdmNDJiODlhYjQwNDI4NjdlZWU"
         },
         {
             name: "Maddie Smith",
