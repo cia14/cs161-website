@@ -101,8 +101,8 @@ $(document).ready(function () {
         {
             name: "Zachary Taylor",
             userName: "taylozac",
-            officeHours: "Mon & Fri 2-3 p.m.",
-            demoHours: "Wed 2-5 p.m.",
+            officeHours: "Mon 5-6 p.m. & Fri 3-4 p.m.",
+            demoHours: "Wed 3-6 p.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUxqNWxQZzNGV2l4fGRlZmF1bHR8M2JlNTg0YThjMTg0NTc0OGZhOTk0YmI5YzY3MjM2NjY"
         },
         {
