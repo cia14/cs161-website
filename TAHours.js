@@ -3,14 +3,14 @@ $(document).ready(function () {
         {
             name: "Sabrina Jesmin",
     	    userName: "jesmins",
-    	    officeHours: "",
+    	    officeHours: "By appointment",
     	    demoHours: "",
     	    doodleLink: ""
     	},
         {
             name: "Yipeng (Roger) Song",
             userName: "songyip",
-            officeHours: "By appointments",
+            officeHours: "By appointment",
             demoHours: "",
             doodleLink: ""
         },
