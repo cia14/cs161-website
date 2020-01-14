@@ -19,7 +19,7 @@ var times = [
             Day: "M",
             StartTime: 1200,
             Type: "Lab",
-            TAs: ["Austin Wilmoth", "Thang Kim"]
+            TAs: ["Austin Wilmoth", "Thang Kim", "Shaurya Gaur"]
         },
         {
             Section: 29,
@@ -54,7 +54,7 @@ var times = [
             Day: "F",
             StartTime: 800,
             Type: "Lab",
-            TAs: ["Lucas Pichette", "Junze Zhang"]
+            TAs: ["Lucas Pichette", "Junze Zhang", "Shaurya Gaur"]
         },
 	{
             Section: 24,
@@ -75,7 +75,7 @@ var times = [
             Day: "F",
             StartTime: 1600,
             Type: "Lab",
-            TAs: ["Cheng Xie",  "Erick Branner"]
+            TAs: ["Cheng Xie",  "Erick Branner", "Zach Taylor"]
         }
 ];
     
