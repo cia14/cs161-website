@@ -38,7 +38,7 @@ $(document).ready(function () {
         {
             name: "Louis Duvoisin",
             userName: "duvoisil",
-            officeHours: "Mon & Fri 12:00-2:00 p.m. | Tue & Thur 11:30 a.m.-2:00 p.m. | Wed 12:00-1:00 p.m.",
+            officeHours: "Mon, Wed, Fri 12:00-2:00 p.m. | Tue & Thur 11:30 a.m.-2:00 p.m.",
             demoHours: "",
             doodleLink: ""
         },
