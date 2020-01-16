@@ -16,11 +16,11 @@ int main()
   cout << "Please enter your age: ";
   cin >> age;
 
-  float fee = 3.95;
   /* If user is under 25, 
    * they must pay an extra fee */
   if (age < 25)
     {
+      float fee = 3.95;
       cout << "You must pay an extra fee of " << fee
 	   << "to rent this car." << endl;
     }
