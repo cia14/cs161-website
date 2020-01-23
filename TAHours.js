@@ -66,7 +66,7 @@ $(document).ready(function () {
         {
             name: "Laura Jiang",
             userName: "jianglau",
-            officeHours: "Mon & Fri 10 a.m.-12 p.m.",
+            officeHours: "Mon 10 a.m.-12 p.m. & Wed 12-2 p.m.",
             demoHours: "Tue & Wed 10 a.m.-12 p.m.",
             doodleLink: "https://calendar.google.com/calendar/selfsched?sstoken=UUlFaGp3TnlmZlRBfGRlZmF1bHR8ZWFkNzE2ZjE0Njc3OWM2Yzg2ZGRmOTRiMmNiNDZmNjY"
         },
