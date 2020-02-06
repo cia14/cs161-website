@@ -11,16 +11,17 @@ using namespace std;
 
 /* Replace character at position i in string s
  * with an underscore _ */
-void destroy_character(string s, int i) {
+void destroy_character(string& s, int i) {
   /* Check arguments */
   if (i < 0 || i > s.length())
     return; /* Do nothing */
   /* Change character i to an underscore */
-  s[i] = '_';
+  s.at(i) = '_';
 }
 
 int main() {
-  string input;  cin >> input;
+  string input;
+  cin >> input;
   destroy_character(input, 3);
   cout << input << endl;
   return 0;
