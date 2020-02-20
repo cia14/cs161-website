@@ -11,7 +11,7 @@
 using namespace std;
 
 /* Custom print function to report yield per field */
-void print_yield(const float* y, const int n) {
+void print_yield(const int* y, const int n) {
   for (int i=0; i<n; i++)
     cout << "Field " << i << ": "
 	 << y[i] << " bushels." << endl;
@@ -24,10 +24,10 @@ int main() {
 
   int n_fields;
   /* Dynamic array; can change size */
-  float* corn_yield;
+  int* corn_yield;
 
   n_fields = 3; /* in year 1, plant 3 fields */
-  corn_yield = new float[n_fields];
+  corn_yield = new int[n_fields];
   for (int i=0; i<n_fields; i++)
     corn_yield[i] = rand()%10 + 30;
   print_yield(corn_yield, n_fields);
@@ -37,7 +37,7 @@ int main() {
   corn_yield = NULL;
  
   n_fields = 5; /* in year 2, plant 5 fields */
-  corn_yield = new float[n_fields];
+  corn_yield = new int[n_fields];
   for (int i=0; i<n_fields; i++)
     corn_yield[i] = rand()%10 + 30;
   print_yield(corn_yield, n_fields);
