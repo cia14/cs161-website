@@ -3,7 +3,7 @@ $(document).ready(function () {
         {
             name: "Sabrina Jesmin",
     	    userName: "jesmins",
-    	    officeHours: "By appointment",
+    	    officeHours: "Mon 9:30-10:30 a.m. (2/24)<br>Fri TBD (3/6)<br>Fri TBD (3/13)",
     	    demoHours: "",
     	    doodleLink: ""
     	},
