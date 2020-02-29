@@ -38,15 +38,15 @@ Your choice? __
 
 If you select "Purchase item", the vending machine might display:
 
-------------------------------------------
-1: (a) Nutter Butter ($1.00, 0.5 HP, 2 EP)
-1: (b) Granola Bar   ($1.50, 2 HP,   1 EP)
-1: (c) Chips         ($1.50, 1 HP,   2 EP)
-------------------------------------------
-2: (a) Water         ($1.00, 2 HP,   1 EP)
-2: (b) Orange Juice  ($3.00, 3 HP,   2 EP)
-2: (c) Diet Coke     ($1.00, 0.5 HP, 1 EP)
-------------------------------------------
+-------------------------------------------
+1: (a) Nutter Butter ($1.00, 0.5 HP,  2 EP)
+1: (b) Granola Bar   ($1.50, 2 HP,    1 EP)
+1: (c) Chips         ($1.50, 1 HP,    2 EP)
+-------------------------------------------
+2: (a) Water         ($1.00, 2 HP,    1 EP)
+2: (b) Orange Juice  ($3.00, 3 HP,    2 EP)
+2: (c) Diet Coke     ($1.00, -0.5 HP, 1 EP)
+-------------------------------------------
 
 And the program will prompt you:
 
@@ -56,20 +56,21 @@ And the program will prompt you:
 The vending machine options and prices may change after each selection
 you make.  Some items may be out of stock.
 
+You can also select the "Restock" option, once per game.  This
+generates a new set of items to choose from in the vending machine.
+It is helpful if you dislike all of the options currently available.
+
 If you select an option that does not exist, you will be returned to
 the menu to try again (until you select "Quit").
 
-You can also select the "Restock" option, once per game.  This
-generates a new set of items to choose from in the vending machine.
-
-When you run out of money, the game is automatically over.
+When you run out of money or if your health points go negative, the
+game is automatically over.
 
 4) Limitations:
-- There is no way to earn more money once it is spent.
-- The vending machine only provides up to 5 choices at a time.
+- There is no way to undo a purchase.
+- The vending machine only provides up to 6 choices at a time.
 
 5) Extra credit:
-
 - This program also allows you to hunt for loose change under the
   machine.  This consumes 0.5 HP and 1 EP but yields a randomly
   selected amount of money (from $0.00 to $2.00).  The updated menu
