@@ -29,7 +29,14 @@ their prices and the health and enjoyment points they will give you
 can select items to buy, which will deduct money from your account and
 modify your health and enjoyment points by the corresponding amounts.
 
-For example, the vending machine might display:
+The menu choices before you are:
+1: Purchase item
+2: Restock (once per game)
+3: Quit
+You have $50, 0 HP, and 0 EP.
+Your choice? __
+
+If you select "Purchase item", the vending machine might display:
 
 ------------------------------------------
 1: (a) Nutter Butter ($1.00, 0.5 HP, 2 EP)
@@ -40,7 +47,6 @@ For example, the vending machine might display:
 2: (b) Orange Juice  ($3.00, 3 HP,   2 EP)
 2: (c) Diet Coke     ($1.00, 0.5 HP, 1 EP)
 ------------------------------------------
-You have $50, 0 HP, and 0 EP.
 
 And the program will prompt you:
 
@@ -53,13 +59,26 @@ you make.  Some items may be out of stock.
 If you select an option that does not exist, you will be returned to
 the menu to try again (until you select "Quit").
 
-When you run out of money, the game is over.  You must spend all of
-your money.
+You can also select the "Restock" option, once per game.  This
+generates a new set of items to choose from in the vending machine.
+
+When you run out of money, the game is automatically over.
 
 4) Limitations:
 - There is no way to earn more money once it is spent.
 - The vending machine only provides up to 5 choices at a time.
 
 5) Extra credit:
-- This program also allows you, once per game, to select the "Restock"
-  option on the menu.  This generates a new set of items to choose from.
+
+- This program also allows you to hunt for loose change under the
+  machine.  This consumes 0.5 HP and 1 EP but yields a randomly
+  selected amount of money (from $0.00 to $2.00).  The updated menu
+  is:
+
+The menu choices before you are:
+1: Purchase item
+2: Restock (once per game)
+3: Hunt for loose change
+4: Quit
+You have $50, 0 HP, and 0 EP.
+Your choice? __
